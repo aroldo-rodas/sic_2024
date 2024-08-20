@@ -1,0 +1,12 @@
+Livro: "Interfacing PIC Microcontrollers (Embedded Design by Interactive Simulation)"
+
+Aqui ele vai comentar sobre os softwares que podem ser utilizados para simular os sistemas
+embarcados, o principal software a ser utilizado será o Proteus, simulando a série PIC 16.
+Tenho o PIC16F628A para testes em bancada, como o Proteus é pago há a possibilidade de
+mostrar algumas alternativas Free ou Open Source como o KiCAD, pelo menos para fazer o
+design de PCB.
+Nesse livro há vários figuras de circuitos simples que podem ser montados em aula, isso
+explicita a ideia de como o microcontrolador (seja ele um Atmega 328P) é conectado a outros
+periféricos para desempenhar atividades práticas. Esses circuitos, para polpar tempo podem
+ser montados em um simulador "simples" como o Falstad, que já pode ter sido utilizado por
+algum aluno que tenha feito alguma disciplina com o Yoshi.

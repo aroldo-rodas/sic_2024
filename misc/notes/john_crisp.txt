@@ -1,0 +1,8 @@
+Livro: "Introduction to Microprocessors and Microcontrollers"
+
+Há explicação completa para compreender o básico de como um microcontrolador trabalha, o
+livro aborda desde o sistema de contagem até a forma como os MCUs lêem os dados que são
+passados por nós.
+A estrutura da MPU é explicada também, então ideias como flags, stack pointers, program
+counter, etc... São explicados também, com bastante figura que podem ser utilizadas
+durante a apresentação (obs: não esquecer de citar as fontes da figura).

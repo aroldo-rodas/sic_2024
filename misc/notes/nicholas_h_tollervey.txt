@@ -1,0 +1,6 @@
+Livro: "Programming with MicroPython (Embedded Programming with Microcontrollers & Python)"
+
+Como o título sugere, esse livro ensina a utilizar o micropython para gerar binários que
+"rodem" em alguns microcontroladores, um deles é o ESP32, gere dois códigos para comparação,
+faça um em C, outro em Python e veja se há alguma diferença de performance e tamanho do
+binário gerado.

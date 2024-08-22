@@ -2,7 +2,7 @@
 
 - [ ] _Make: Getting Started with Arduino_
 
-- [ ] _Make: Jumpstarting C"_
+- [x] _Make: Jumpstarting C"_
 
 - [ ] _Programming Embedded Systems with C and GNU Development Tools_
 

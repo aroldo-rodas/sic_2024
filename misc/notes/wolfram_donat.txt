@@ -5,3 +5,9 @@ também ensina a utilizar o Pi Zero para acender leds e afins, isso deve ser
 adaptado para o Arduino UNO R3, possivelmente essa versão que terá mais
 disponibilidade no laboratório, lembre-se que lá também há o Arduino Mega 2560,
 a leitura do Datasheet e Schematics do mesmo, deve ser feita também.
+
+"Aprenda a linguagem de programação que permite a interface com o o hardware e
+memória do seu computador" - Wolfram Donat
+
+O jogo "Simon Says" é uma ótima oportunidade de mesclar C com o Arduino, alguns
+componentes são necessários, como botões, leds, resistores e jumpers.

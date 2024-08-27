@@ -23,7 +23,7 @@ int main(void) {
 }
 ```
 
-Oque esse código faz é basicamente armazenar um valor em uma variável chamada `foo` e
+O que esse código faz é basicamente armazenar um valor em uma variável chamada `foo` e
 depois imprime na tela com o auxílio da função `printf`.
 
 Para compilar esse código basta utilizar o `gcc` e alguns de seus parâmetros para facilitar
